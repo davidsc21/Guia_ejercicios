@@ -12,3 +12,7 @@ Pilates es un método de entrenamiento que fortalece el cuerpo a través del con
 1. Comienza con ejercicios de activación del core.
 2. Realiza movimientos controlados como el "cien" y el "roll-up".
 3. Finaliza con una relajación y respiración consciente.
+
+## Consejos
+- Mantén el control de cada movimiento.
+- La respiración es clave en cada ejercicio.
