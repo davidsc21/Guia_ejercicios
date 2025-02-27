@@ -13,3 +13,6 @@ El boxeo es un deporte de alta intensidad que mejora la coordinación, fuerza y
 2. Practica golpes básicos (jab, directo, uppercut, gancho) con buena técnica.
 3. Finaliza con estiramientos y ejercicios de relajación.
 
+## Consejos
+- Mantén una guardia alta y postura equilibrada.
+- Usa vendas y guantes adecuados para proteger las manos.
