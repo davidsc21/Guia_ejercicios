@@ -13,3 +13,6 @@ La natación es un ejercicio de bajo impacto que trabaja todos los grupos muscu
 2. Nada en diferentes estilos (crol, espalda, braza) durante 30-45 minutos.
 3. Finaliza con estiramientos suaves.
 
+## Consejos
+- Controla tu respiración en cada brazada.
+- Usa gafas y gorro de natación para mayor comodidad.
